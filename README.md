@@ -41,3 +41,30 @@ Create a streamlined HR dashboard for quick insights.
 Excel: For data cleaning.
 
 Power BI: For visualization and dashboard creation.
+
+## DASHBOARD 
+
+## INSIGHTS GAINED
+
+Total Employee Count: 161 employees, forming the basis of analysis.
+
+Department Headcount: The Packaging Association and Production Operation have the highest headcount, while Marketing roles are less populated.
+
+Salary Discrepancies: Notable discrepancies exist in salaries for roles like Product Manager and Research Scientist.
+
+Gender Distribution: The workforce consists of 88 females and 73 males, indicating a balanced representation.
+
+Education vs. Salary: Employees with Master’s degrees earn higher salaries compared to others.
+
+Top Earners: Product Managers, Research Scientists, and Marketing Managers are the highest compensated.
+
+Leave Analysis: High leave counts in Packaging and Production suggest potential job stress or dissatisfaction.
+
+
+
+## RECOMMENDATION 
+Address Salary Discrepancies: Conduct a salary audit for equitable compensation.
+
+Well-Being Programs: Implement initiatives targeting employees in high-leave roles to improve morale.
+
+Focus on High-Leave Roles: Engage with employees in departments with high leave counts to identify root causes and enhance work-life balance.
