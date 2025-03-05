@@ -63,8 +63,9 @@ Power BI: For visualization and dashboard creation.
 
 
 ## RECOMMENDATION 
-1️⃣ Address Salary Discrepancies: Conduct a salary audit for equitable compensation.
+1️⃣Address Salary Discrepancies: Given the discrepancies in salaries for positions like Production, Research Scientists,and Marketing Managers, it is crucial to perform a salary audit to ensure fairness and equity across similar roles. This could help improve employee morale and retention.
 
-2️⃣ Well-Being Programs: Implement initiatives targeting employees in high-leave roles to improve morale.
+2️⃣Tailored Well-Being Programs: Consider launching well-being programs aimed at employees who might be experiencing higher leave rates, especially in physically demanding or high-stress roles.
 
-3️⃣ Focus on High-Leave Roles: Engage with employees in departments with high leave counts to identify root causes and enhance work-life balance.
+3️⃣Focus on High-Leave Roles: Pay special attention to the departments with high leave counts by engaging with employees to understand the root causes. This could involve conducting employee surveys or interviews to gauge satisfaction, addressing stress factors, and improving work-life balance.
+
