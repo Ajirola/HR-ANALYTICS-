@@ -1,10 +1,8 @@
 # HR ANALYTICS
 
 ## TABLE OF CONTENTS 
-  
-   # Description 
-  
-   # Overview 
+  Description 
+  Overview 
   • Objective 
   • Tools
   • Dashboard 
