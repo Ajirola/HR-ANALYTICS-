@@ -44,6 +44,9 @@ Power BI: For visualization and dashboard creation.
 
 ## DASHBOARD 
 
+![HR Dashboard](images/dashboard.jpeg)
+
+
 ## INSIGHTS GAINED
 
 Total Employee Count: 161 employees, forming the basis of analysis.
