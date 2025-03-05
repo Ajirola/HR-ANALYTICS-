@@ -43,8 +43,7 @@ Excel: For data cleaning.
 Power BI: For visualization and dashboard creation.
 
 ## DASHBOARD 
-
-![HR Dashboard](path/to/HR%20DASHBOARD.png)
+![HR DASHBOARD](HR%20DASHBOARD.png)
 
 
 ## INSIGHTS GAINED
