@@ -44,7 +44,7 @@ Power BI: For visualization and dashboard creation.
 
 ## DASHBOARD 
 
-![HR DASHBOARD.png]()
+![HR Dashboard](path/to/HR%20DASHBOARD.png)
 
 
 ## INSIGHTS GAINED
