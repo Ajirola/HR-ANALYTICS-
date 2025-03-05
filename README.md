@@ -35,3 +35,9 @@ Examine the relationship between qualifications and salaries.
 Conduct an analysis of leave balances.
 
 Create a streamlined HR dashboard for quick insights.
+
+## TOOLS USED:
+
+Excel: For data cleaning.
+
+Power BI: For visualization and dashboard creation.
