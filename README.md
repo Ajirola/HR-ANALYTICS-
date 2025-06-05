@@ -15,6 +15,8 @@
  
  [Recommendation]()
 
+ .[Contant]()
+
  ## DESCRIPTION 
  This project leverages Power BI to analyze HR data, providing insights into employee demographics, salary structures, and leave balances.
  
@@ -69,3 +71,9 @@ Power BI: For visualization and dashboard creation.
 
 3️⃣Focus on High-Leave Roles: Pay special attention to the departments with high leave counts by engaging with employees to understand the root causes. This could involve conducting employee surveys or interviews to gauge satisfaction, addressing stress factors, and improving work-life balance.
 
+
+## Contact
+Created by **Ajirola Amudat**  
+For inquiries, connect on [LinkedIn](https://www.linkedin.com/in/ajirola-amudat-a-3083882b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+![Screenshot](Screenshot_20250311-144911.jpg)
