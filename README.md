@@ -4,6 +4,8 @@
  [Description]() 
  
  [Overview]()
+
+ [Problem Statement]() 
  
  [Objective]() 
  
@@ -22,6 +24,10 @@
  
 ## OVERVIEW 
 This repository contains a comprehensive HR analysis project developed using Power BI. The dashboard visualizes key HR metrics and insights, enabling better decision-making and strategic planning.
+
+## PROBLEM STATEMENT 
+The organization lacks clear visibility into staff distribution, gender balance, salary equity, and leave management, making it difficult to ensure fair compensation, monitor workforce diversity, and support data-driven HR decisions.This lack of insight can lead to inefficiencies in workforce planning, inequity in compensation, and missed opportunities for improving employee management. A streamlined dashboard is needed to present these insights in a quick and actionable format.
+
 
 ## OBJECTIVE 
 1️⃣ Determine the headcount for each job role.
